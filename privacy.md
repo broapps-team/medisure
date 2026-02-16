@@ -3,7 +3,7 @@ title: Privacy Policy
 ---
 
 # Privacy Policy for MediSure
-**Effective Date:** Feb 15, 2025
+**Effective Date:** Feb 15, 2026
 **Contact:** broapps.team@gmail.com
 
 MediSure app helps you create and track medications and care items.
