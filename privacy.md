@@ -2,7 +2,7 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy for RemindBro+
+# Privacy Policy for MediSure
 **Effective Date:** Feb 15, 2025
 **Contact:** broapps.team@gmail.com
 
